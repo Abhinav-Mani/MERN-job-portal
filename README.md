@@ -1,14 +1,18 @@
 # Job-portal
 
 FullStack app with Node and Mysql Rest Api, and React as Client.
-If you want to use this, dont forget to install dependencies in the client folder where the react is.
-Also first of all edit routes and create database in XAMPP or similar.
 
-DEMO - COMING SOON
+[DEMO](https://job-portal-enm.herokuapp.com/)
 
 - [x] REST API
 - [x] Add Edit Routes to api
 - [ ] Client Page components
-- [ ] Redux
+- [x] Redux
+- [ ] Admin Panel
 - [ ] Slate
+- [ ] Candidates preview
 - [ ] Deploy
+
+
+![Preview](https://i.ibb.co/m4q7JHK/download.png "Preview")
+
